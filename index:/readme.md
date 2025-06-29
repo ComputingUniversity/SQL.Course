@@ -1,2 +1,3 @@
 - https://www.coursera.org/learn/sql-for-data-science
 - https://www.coursera.org/learn/intro-to-sql
+- https://www.coursera.org/specializations/postgresql-for-everybody
